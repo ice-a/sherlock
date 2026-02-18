@@ -8,12 +8,11 @@ Giphy
 Hubski
 LessWrong
 LushStories
-OurDJTalk
+Minecraft
 PocketStars
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
@@ -26,3 +25,5 @@ YandexMusic
 mercadolivre
 phpRU
 svidbook
+threads
+xHamster
