@@ -5,9 +5,10 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hashnode
+Hive Blog
 Hubski
 LessWrong
-LushStories
+Minecraft
 Patched
 PocketStars
 Realmeye
