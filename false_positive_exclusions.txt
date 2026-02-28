@@ -1,6 +1,7 @@
 APClips
 Archive.org
 GNOME VCS
+GaiaOnline
 GeeksforGeeks
 Giphy
 Hashnode
@@ -15,7 +16,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 TryHackMe
