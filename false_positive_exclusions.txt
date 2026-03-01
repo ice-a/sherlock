@@ -1,13 +1,12 @@
 APClips
 Archive.org
+Codolio
 GNOME VCS
-GaiaOnline
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-LushStories
 Patched
 PocketStars
 Realmeye
