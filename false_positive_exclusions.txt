@@ -8,6 +8,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
 PocketStars
 Realmeye
@@ -25,3 +26,4 @@ YandexMusic
 mercadolivre
 phpRU
 svidbook
+xHamster
