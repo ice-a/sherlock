@@ -21,12 +21,12 @@ SlideShare
 Smule
 Splice
 Spotify
-Strava
 Trovo
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
-xHamster
