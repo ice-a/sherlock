@@ -25,7 +25,7 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
-opennet
+minds
 phpRU
 svidbook
 xHamster
