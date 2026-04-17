@@ -2,6 +2,7 @@
 APClips
 Apple Discussions
 Archive.org
+Audiojungle
 Bandcamp
 Codolio
 DeviantArt
@@ -10,7 +11,6 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
 LushStories
 Patched
@@ -19,6 +19,7 @@ Pornhub
 Rarible
 Realmeye
 Reddit
+ReverbNation
 RocketTube
 Scribd
 SlideShare
