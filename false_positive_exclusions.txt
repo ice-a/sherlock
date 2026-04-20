@@ -3,26 +3,23 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
-CGTrader
 Codolio
-Cults3D
 Discord.bio
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
 LessWrong
 LushStories
-Motherless
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
-Slack
 SlideShare
 Smule
 Splice
@@ -33,8 +30,6 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
-threads
