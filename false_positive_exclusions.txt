@@ -12,9 +12,8 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Patched
-Pornhub
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -26,8 +25,8 @@ Splice
 Spotify
 Trovo
 TryHackMe
-Velomania
 Weblate
+YandexMusic
 dailykos
 interpals
 mercadolivre
