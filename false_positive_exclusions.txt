@@ -11,22 +11,22 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LushStories
-Outgress
+Minecraft
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
@@ -34,7 +34,7 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
+xHamster
