@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
@@ -15,6 +16,7 @@ Hubski
 LessWrong
 LushStories
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -22,7 +24,6 @@ RocketTube
 Scribd
 SlideShare
 Smule
-SpeakerDeck
 Splice
 Spotify
 Trovo
@@ -31,8 +32,10 @@ Velomania
 Weblate
 YandexMusic
 dailykos
+igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
