@@ -13,8 +13,6 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
-Motherless
 Patched
 Rarible
 Realmeye
@@ -23,6 +21,7 @@ RocketTube
 Scribd
 SlideShare
 Smule
+Snapchat
 Splice
 Spotify
 TryHackMe
