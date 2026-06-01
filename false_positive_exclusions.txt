@@ -6,16 +6,20 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Patched
+Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -39,4 +43,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
