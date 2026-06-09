@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -16,6 +17,7 @@ Hubski
 LessWrong
 LushStories
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,7 +27,7 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
+Star Citizen
 Trovo
 TryHackMe
 Velomania
@@ -39,3 +41,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
