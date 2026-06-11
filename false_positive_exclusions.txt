@@ -6,11 +6,11 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -22,11 +22,9 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
