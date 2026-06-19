@@ -22,6 +22,7 @@ Rarible
 Realmeye
 Reddit
 Replit.com
+RocketTube
 Scribd
 SlideShare
 Splice
@@ -30,7 +31,6 @@ Trovo
 TryHackMe
 Velomania
 Weblate
-Wordnik
 YandexMusic
 authorSTREAM
 dailykos
