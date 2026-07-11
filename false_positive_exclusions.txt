@@ -6,21 +6,20 @@ Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
-CGTrader
 Codolio
-DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
 LessWrong
+LushStories
+Minecraft
 Odysee
 PCGamer
-Patched
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -30,7 +29,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
