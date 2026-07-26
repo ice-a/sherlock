@@ -1,12 +1,10 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Carbonmade
 Codolio
 DeviantArt
 Discord.bio
@@ -20,6 +18,7 @@ LinkedIn
 LushStories
 Odysee
 PCGamer
+Patched
 Rarible
 Realmeye
 Reddit
@@ -32,7 +31,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
