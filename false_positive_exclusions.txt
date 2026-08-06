@@ -6,10 +6,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -20,11 +18,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 LushStories
 Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -34,14 +32,12 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
-Scribd
-Slack
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -52,4 +48,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
