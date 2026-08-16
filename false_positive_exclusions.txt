@@ -9,7 +9,6 @@ Bandcamp
 Chatujme.cz
 Codolio
 Cracked Forum
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -23,8 +22,8 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -35,12 +34,12 @@ Replit.com
 ReverbNation
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
@@ -49,7 +48,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
-xHamster
