@@ -1,14 +1,13 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
-Cracked Forum
 Cults3D
 DeviantArt
 Discord.bio
@@ -24,10 +23,9 @@ LinkedIn
 LushStories
 Minecraft
 Odysee
-OurDJTalk
-Outgress
 PCGamer
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -38,12 +36,15 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 hunting
 igromania
 interpals
