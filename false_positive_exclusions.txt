@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -17,11 +18,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Jupyter Community Forum
 LinkedIn
-LushStories
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -45,7 +45,7 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
+xHamster
