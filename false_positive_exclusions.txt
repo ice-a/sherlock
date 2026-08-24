@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -21,9 +20,9 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -34,6 +33,7 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -46,7 +46,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
