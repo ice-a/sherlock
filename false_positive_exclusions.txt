@@ -1,12 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -14,7 +13,6 @@ ChaturBate
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 GaiaOnline
 GeeksforGeeks
@@ -49,7 +47,9 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 fixya
+furaffinity
 hunting
 igromania
 interpals
@@ -58,3 +58,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
