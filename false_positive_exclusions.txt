@@ -18,7 +18,6 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-Gravatar
 HackerNews
 Hashnode
 Houzz
@@ -26,9 +25,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LiveJournal
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -42,7 +39,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -58,3 +54,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
