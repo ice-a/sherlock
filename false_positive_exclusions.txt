@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -10,11 +9,11 @@ Blogger
 CGTrader
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GaiaOnline
 GeeksforGeeks
 Giphy
@@ -25,16 +24,15 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LushStories
 Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 SlideShare
 Splice
